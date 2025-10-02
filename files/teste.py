@@ -47,6 +47,7 @@ def main():
             cript = criptografar(mensagem, chave_xor)
             print("\nMensagem criptografada:")
             print(cript.encode("latin1"))
+            print("(selecionar apenas a mensagem DENTRO das aspas!!!")
         elif opcao == "2":
             try:
                 # Para descriptografar, assumimos que a entrada já está em formato criptografado
