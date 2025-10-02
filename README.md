@@ -9,7 +9,7 @@ Este é um repositorio dedicado ao projeto feito pra APS do 2º bimestre de 2025
 <br><br>
 Projeto feito pelos seguintes alunos:
 - <a href="link-github"><font color=#0000> Adriano </font></a>
-- <a href="link-github"><font color=#0000> Alanis Camilly</font></a>
+- <a href="https://github.com/alaniscodin"><font color=#0000> Alanis Camilly</font></a>
 - <a href="link-github"><font color=#0000> Alanna Dantas</font></a>
 - <a href="https://github.com/bruniibs"><font color=#0000> Bruna Sant'Ana</font></a>
 - <a href="link-github"><font color=#0000> Maria Eduarda Moreschi</font></a>
